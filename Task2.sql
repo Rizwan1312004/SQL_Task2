@@ -1,4 +1,4 @@
--- Create a sample table: Employees (MySQL version)
+-- Creating a sample table: Employe_table ( this is done in MySQL workbench)
 CREATE TABLE Employe_table (
     EmployeeID INT PRIMARY KEY AUTO_INCREMENT,
     FirstName VARCHAR(50) NOT NULL,
